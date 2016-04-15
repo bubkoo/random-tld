@@ -1,6 +1,6 @@
 {
   "name": "random-tld",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Return a random tld.",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bubkoo/random-tld.git"
+    "url": "git+https://github.com/mock-end/random-tld.git"
   },
   "keywords": [
     "random",
@@ -38,9 +38,9 @@
     "email": "bubkoo.wy@gmail.com"
   },
   "bugs": {
-    "url": "https://github.com/bubkoo/random-tld/issues"
+    "url": "https://github.com/mock-end/random-tld/issues"
   },
-  "homepage": "https://github.com/bubkoo/random-tld#readme",
+  "homepage": "https://github.com/mock-end/random-tld#readme",
   "devDependencies": {
     "jshint": "^2.9.1",
     "chai": "^3.5.0",
@@ -49,7 +49,7 @@
     "mocha": "^2.4.5"
   },
   "dependencies": {
-    "pick-some": "file:///Users/Johnny/Documents/github.bubkoo/pick-some",
+    "pick-item": "^1.0.1",
     "tld-list": "1.0.0"
   }
 }
