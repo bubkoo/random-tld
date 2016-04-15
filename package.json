@@ -25,7 +25,12 @@
     "sampling",
     "generator",
     "generate",
-    "gen"
+    "gen",
+    "pick",
+    "one",
+    "url",
+    "email",
+    "network"
   ],
   "license": "MIT",
   "author": {

@@ -8,9 +8,6 @@
 [![coverage:?](https://img.shields.io/coveralls/bubkoo/random-tld/master.svg?style=flat-square)](https://coveralls.io/github/bubkoo/random-tld)
 
 
-Heavily inspirated by [Fisher–Yates shuffle](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle).
-
-
 ## Install
 
 ```
@@ -26,3 +23,6 @@ var randomTld = require('random-tld');
 randomTld();
 // => com
 ```
+
+## Related
+
