@@ -1,6 +1,6 @@
 # random-tld
 
-> Return a random tld(Top Level Domain).
+> Return a random tld([Top Level Domain](https://en.wikipedia.org/wiki/Top-level_domain)).
 
 [![MIT License](https://img.shields.io/badge/license-MIT_License-green.svg?style=flat-square)](https://github.com/mock-end/random-tld/blob/master/LICENSE)
 
