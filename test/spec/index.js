@@ -1,12 +1,11 @@
 'use strict';
 
-var tlds   = require('tld-list');
-var char   = require('chai');
-var expect = char.expect;
+var expect = require('chai').expect;
 
 
 describe('random-tld: ', function () {
 
+  var tlds      = require('tld-list');
   var randomTld = require('../../');
 
   it('randomTld()', function () {
