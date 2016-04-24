@@ -19,6 +19,9 @@ $ npm install --save random-tld
 ```js
 var randomTld = require('random-tld');
 
+// API
+// - randomTld();
+
 randomTld();
 // => com
 ```
@@ -26,8 +29,13 @@ randomTld();
 ## Related
 
 - [random-domains](https://github.com/mock-end/random-domains) - Return a random domain.
-- [random-uri](https://github.com/mock-end/random-uri.git) - Return a random url.
 - [random-email](https://github.com/mock-end/random-email) - Return a random email.
+- [random-protocol](https://github.com/mock-end/random-protocol) - Return a random protocol.
+- [random-hashtag](https://github.com/mock-end/random-tld) - Return a random hashtag.
+- [random-uri](https://github.com/mock-end/random-uri.git) - Return a random url.
+- [random-ipv4](https://github.com/mock-end/random-ipv4) - Return a random ipv4 address.
+- [random-ipv6](https://github.com/mock-end/random-ipv6) - Return a random ipv6 address.
+- [random-avatar](https://github.com/mock-end/random-avatar) - Return a URL to a random avatar from Gravatar.
 
 ## Contributing
 
